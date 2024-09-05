@@ -7,6 +7,7 @@ const seed = async () => {
     data: [
       { title: 'title-1', content: 'dummy1' },
       { title: 'title-2', content: 'dummy2' },
+      { title: 'title-3', content: 'dummy3' },
     ],
   });
 };
